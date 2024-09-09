@@ -1,0 +1,7 @@
+database:
+  user: image_uploader_user
+  password: your_secure_password
+  dbname: image_uploader
+  host: localhost
+  port: 5432
+  sslmode: disable
